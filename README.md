@@ -4,7 +4,7 @@ As a Competetive Programmer I love to solve real world problems Constantly worki
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anuj-kumar-b601b4288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kumar-b601b4288)
 
 <!-- <a href="https://app.daily.dev/AnujKumarSingh-Code"><img src="https://api.daily.dev/devcards/a248742bf01940e4b312137a24fe9c45.png?r=iz8" width="400" alt="AnujKumarSingh-Code's Dev Card"/></a> -->
 
