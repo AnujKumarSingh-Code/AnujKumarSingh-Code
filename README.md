@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 
 As a Competetive Programmer I love to solve real world problems Constantly working to improve my skills I love to get deep into problems and solve
@@ -8,7 +6,7 @@ As a Competetive Programmer I love to solve real world problems Constantly worki
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anuj-kumar-b601b4288)
 
-<!-- <a href="https://app.daily.dev/AnujKumarSingh-Code"><img src="https://api.daily.dev/devcards/a248742bf01940e4b312137a24fe9c45.png?r=iz8" width="400" alt="Dipankar Kumar Singh's Dev Card"/></a> -->
+<!-- <a href="https://app.daily.dev/AnujKumarSingh-Code"><img src="https://api.daily.dev/devcards/a248742bf01940e4b312137a24fe9c45.png?r=iz8" width="400" alt="AnujKumarSingh-Code's Dev Card"/></a> -->
 
 # 💻 Tech Stack:
 
@@ -16,8 +14,8 @@ As a Competetive Programmer I love to solve real world problems Constantly worki
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dipankar-kumar-singh&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-kumar-singh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnujKumarSingh-Code&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumarSingh-Code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=AnujKumarSingh-Code)
 
