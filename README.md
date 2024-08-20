@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-As a Competetive Programmer I love to solve real world problems Constantly working to improve my skills I love to get deep into problems and solve
+
 
 ## 🌐 Socials:
 
